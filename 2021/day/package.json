@@ -1,0 +1,17 @@
+{
+  "name": "day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 5.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
